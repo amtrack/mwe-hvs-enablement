@@ -1,0 +1,12 @@
+{
+  "name": "mwe-hvs-enablement",
+  "private": true,
+  "version": "0.0.0-development",
+  "description": "minimal working example for HVS enablement",
+  "scripts": {
+    "develop": "sfdx force:org:create -f config/project-scratch-def.json -a hvs -s"
+  },
+  "devDependencies": {
+    "sfdx-cli": "7.82.1-0"
+  }
+}

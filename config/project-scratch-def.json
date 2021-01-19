@@ -1,0 +1,12 @@
+{
+  "orgName": "My High Velocity Sales Org",
+  "edition": "Developer",
+  "language": "en_US",
+  "features": ["HighVelocitySales"],
+  "settings": {
+    "highVelocitySalesSettings": {
+      "enableHighVelocitySalesSetup": true,
+      "enableACAutoSendEmail": true
+    }
+  }
+}
